@@ -2,8 +2,10 @@
 Es un software realizado en PHP enfocado a la verificación de los datos enviados por el componente "Coodinador" donde se responderá "verdadero" o "falso" según la información recibida.
 
 url: http://142.44.246.92/REGISTER2/recibirData.php
+Esta URL es de referencia a un servidor que se utilizo para la realización de este pequeño Web Service.
 
 Esta información recibida debe contener 3 datos:
+Para recibir la información se utilizo el metodo POST.
 
 Hash 1: Dirección pública de la "Wallet".
 Hash 2: Dirección privada de la "Wallet".
