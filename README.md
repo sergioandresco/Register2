@@ -64,11 +64,12 @@ public function validarInfo($h1, $h2, $d){
     }else{
         $mensaje1 = "El monto ingresado esta correcto";
     }
-
+    
+    echo $mensaje, $mensaje1;
     
 }
 }
-echo $mensaje, $mensaje1;
+
 
 
 ?>
