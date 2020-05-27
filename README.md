@@ -68,8 +68,7 @@ public function validarInfo($h1, $h2, $d){
     
 }
 }
-$Informacion = json_encode($mensaje, $mensaje1);
-return $Informacion;
+echo $mensaje, $mensaje1;
 
 
 ?>
